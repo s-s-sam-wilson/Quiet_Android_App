@@ -9,7 +9,7 @@ Problems:
 2. the foreground service stops if the battery is below 15.
 3. needs user to give app, unlimited battery usage.
 it works fine other than that.
-![alt text](screenshot/screenshot1.jpeg)
+![alt text](https://github.com/Wilson-hue/Quiet_Android_App/blob/2401c1013656e95a1e257714c8ea9c1311e0bbb4/screenshot/screenshot1.jpeg)
 ![alt text](screenshot/screenshot2.jpeg)
 ![alt text](screenshot/screenshot3.jpeg)
 ![alt text](screenshot/screenshot4.jpeg)
