@@ -9,3 +9,12 @@ Problems:
 2. the foreground service stops if the battery is below 15.
 3. needs user to give app, unlimited battery usage.
 it works fine other than that.
+![alt text](screenshot/screenshot1.jpeg)
+![alt text](screenshot/screenshot2.jpeg)
+![alt text](screenshot/screenshot3.jpeg)
+![alt text](screenshot/screenshot4.jpeg)
+![alt text](screenshot/screenshot5.jpeg)
+![alt text](screenshot/screenshot6.jpeg)
+
+
+
